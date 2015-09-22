@@ -3,7 +3,7 @@
 // implemented incorrectly.
 //
 // Inspired by Leon Brocard's Data::Page Perl module.
-// http://search.cpan.org/perldoc?Data::Page
+// http://search.cpan.org/perldoc?Data%3A%3APage
 package page
 
 import (
